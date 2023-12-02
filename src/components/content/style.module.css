@@ -1,0 +1,10 @@
+.wrapper{
+    margin-block-start: 20px;
+    border: 1px solid white;
+    padding: 30px;
+}
+.title{
+    border-bottom: 1px solid tomato;
+    margin-block-end: 20px;
+    padding-block-end: 10px;
+}
